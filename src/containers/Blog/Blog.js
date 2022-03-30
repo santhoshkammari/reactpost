@@ -18,7 +18,7 @@ class Blog extends Component {
                                 pathname: '/new-post',
                                 hash: '#submit',
                                 search: '?quick-submit=true'
-                            }}>New Post</Link></li>
+                            }}>New post</Link></li>
                         </ul>
                     </nav>
                 </header>
